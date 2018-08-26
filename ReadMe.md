@@ -1,5 +1,6 @@
-## °ÑÍ¼Æ¬»òÊÓÆµ×ªÎª×Ö·û»­ÃæÊä³öµ½¿ØÖÆÌ¨
- * ÄãÐèÒªÅäÖÃC/C++ºÍopenCV»·¾³
- * openCV_Ascii.proÎÄ¼þÎªqtcreatorÅäÖÃopencvµÄÎÄ¼þ£¬Äã¿ÉÒÔ²»¿¼ÂÇ¡£
- 	> imagetransformer.h& ~.cpp°üÀ¨ÁËÖ÷ÒªµÄ¾²Ì¬½Ó¿Ú¡£
- 	> main.cppÎªÊ¾Àý¡£
+## æŠŠå›¾ç‰‡æˆ–è§†é¢‘è½¬ä¸ºå­—ç¬¦ç”»é¢è¾“å‡ºåˆ°æŽ§åˆ¶å°
+![loadingImage...](https://github.com/Saber2pr/MyWeb/blob/master/resource/badapple.jpg)
+ * ä½ éœ€è¦é…ç½®C/C++å’ŒopenCVçŽ¯å¢ƒ
+ * openCV_Ascii.proæ–‡ä»¶ä¸ºqtcreatoré…ç½®opencvçš„æ–‡ä»¶ï¼Œä½ å¯ä»¥ä¸è€ƒè™‘ã€‚
+ 	> imagetransformer.h& ~.cppåŒ…æ‹¬äº†ä¸»è¦çš„é™æ€æŽ¥å£ã€‚
+ 	> main.cppä¸ºç¤ºä¾‹ã€‚
